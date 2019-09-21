@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Macau
+X-LIC-LOCATION:Asia/Macau
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Macau:20190921T113000
+DTEND;TZID=Asia/Macau:20190921T130000
+DTSTAMP:20190919T002116Z
+ORGANIZER;CN=free.training.mentoring@gmail.com:mailto:free.training.mentori
+ ng@gmail.com
+UID:040000008200E00074C5B7101A82E00800000000767C7D7FE795C340AB9FF3185A6AC63
+ 110000000E7BA5824EDEA4B48BAC43480EDC531C8
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anchal.mentor@gmail.com;X-NUM-GUESTS=0:mailto:anchal.mentor@gmail.c
+ om
+X-MICROSOFT-CDO-OWNERAPPTID:-760672096
+RECURRENCE-ID;TZID=Asia/Macau:20190921T113000
+CLASS:PUBLIC
+CREATED:20190919T001449Z
+DESCRIPTION:Fullstack development - Java\, JavaScript\, React JS\, React Na
+ tive\n\nJoin Zoom Meeting:\nhttps://zoom.us/j/539168656\n\nOne tap mobile:\
+ n+16465588656\,\,539168656# US (New York)\n+17207072699\,\,539168656# US (D
+ enver)\n\nDial by your location:\n        +1 720 707 2699 US\n        +1 64
+ 6 558 8656 US (New York)\n        +852 5808 6088 Hong Kong\, China\n       
+  +65 3165 1065 Singapore\n        +65 3158 7288 Singapore\n        +81 524 
+ 564 439 Japan\n        +81 3 4578 1488 Japan\n        +1 647 558 0588 Canad
+ a\n        +27 87 551 7702 South Africa\n        +27 87 550 7717 South Afri
+ ca\n        +44 203 695 0088 United Kingdom\n        +44 203 051 2874 Unite
+ d Kingdom\n        +52 554 161 4288 Mexico\n        +52 229 910 0061 Mexico
+ \n        +33 7 5678 4048 France\n        +33 1 8288 0188 France\n\nMeeting
+  ID: 539 168 656\nFind your local number: https://zoom.us/u/ajp9B20yI\n\n\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-\nPlease do not edit this section of the description.\n\nView y
+ our event at https://www.google.com/calendar/event?action=VIEW&eid=XzYwcTMw
+ YzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzB
+ jMWc2c3IzZWdwbjhncmtjaDluNzRxazZjcGs2MTBrNGVhNjhvcGoyZTFsODRyNDJncG02Y29qMm
+ MxZzYwbzMwYzFnOGtyazRnOWw3MHAzOGhhNDhsMGo4Z2hrNzExNDJncGs2Y3EzZ2MyNThoMWphY
+ 3BoOGNzMF8yMDE5MDkyMVQwMzMwMDBaIGFuY2hhbC5tZW50b3JAbQ&tok=MzMjZnJlZS50cmFpb
+ mluZy5tZW50b3JpbmdAZ21haWwuY29tMTM4MTdlMmU2OThmZGI5NTljODcxYzU0ZDI4NzllNzk5
+ NTIzOTAwZQ&ctz=Asia%2FHong_Kong&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190919T002112Z
+LOCATION:https://zoom.us/j/539168656
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Fullstack development - Java\, JavaScript\, React JS\, React Native
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
