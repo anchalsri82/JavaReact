@@ -1,21 +1,21 @@
 * Training session details :
 	http://bit.ly/2lY1YFP
 
-* Video Recording : 
-	http://bit.ly/2m0vHOw
-	Day 1 - Part 1 - https://youtu.be/fe_JO51cKVc
-			Part 2 - https://youtu.be/k_9No6hOQZ0
-	Day 2 - https://youtu.be/K3u197JVdTg
+* Video Recording : <br/>
+	http://bit.ly/2m0vHOw <br/>
+	Day 1 - Part 1 - https://youtu.be/fe_JO51cKVc <br/>
+			Part 2 - https://youtu.be/k_9No6hOQZ0 <br/>
+	Day 2 - https://youtu.be/K3u197JVdTg <br/>
 
 * Sample code for Lab : 
 	https://github.com/anchalsri82/JavaReact
 
 * Presentation :
-	Day 1 - http://bit.ly/2mscOUP	
+	Day 1 - http://bit.ly/2mscOUP	<br/>
 	Day 2 - http://bit.ly/2m5NcwY
 
-* Home Assignment : 
-	https://github.com/anchalsri82/JavaReact
+* Home Assignment : <br/>
+	https://github.com/anchalsri82/JavaReact<br/>
 	21st Sep 2019
 	--------------
 	* Download and Install 
@@ -28,9 +28,9 @@
 	* Read the presentation at http://bit.ly/2mscOUP once again for revision.
 	* Watch the recorded videos at http://bit.ly/2m0vHOw for revision and make notes for yourself using pen and paper.
 	* Write a Java program that:
-		1. output "I CAN LEARN JAVA!!!"
-		2. output "EXCERCISE OR MEDITATE"
-		3. takes yes or no as input and print "SORRY" if user enters yes.
+		1. Output "I CAN LEARN JAVA!!!"
+		2. Output "EXCERCISE OR MEDITATE"
+		3. Takes yes or no as input and print "SORRY" if user enters yes.
 	* Write a Java program that take yes or no as input and print "SORRY" if user enters yes.
 	* Share your answers for above 4 problems on whatsapp group.
 	* Create an account on GitHub.com and ping your GitHub username to Anchal to get permission on GitHub project.
