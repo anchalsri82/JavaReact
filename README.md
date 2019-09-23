@@ -1,5 +1,5 @@
-* Training session details :
-	http://bit.ly/2lY1YFP
+*  Learn building mobile/web app Full Stack dev using Java/React/JS online interactive Course details :
+	http://bit.ly/2l12aUF
 
 * Video Recording : <br/>
 	http://bit.ly/2m0vHOw <br/>
@@ -46,3 +46,13 @@
 		4. Putty 				- https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 		5. SuperPutty 			- https://www.puttygen.com/superputty#SuperPuTTY_download
 	* List out atleast 1 mobile application and 1 web application you would like to build as part of this course or after completing this course and ping it on our whatsapp group.
+
+	23rd Sep 2019
+	--------------
+	* Read the presentation at http://bit.ly/2m5NcwY once again for revision, if not done already.
+	* Watch the recorded videos at http://bit.ly/2m0vHOw for revision and make notes for yourself using pen and paper, if not done already.
+	* Write a Java program that:
+		1. Outputs "I will build Mobile App."
+		2. Outputs "I will be master in Java and React after completing this course."
+		3. Takes input as month number and outputs the month name. e.g. if input is 3, output should be March, if input is 12, output should be December.
+		4. Takes marks in percentage as input and print "Grade A" if percentage >= 80, print "Grade B", if percentage >=70 and percentage <80, "Fails" otherwise.
