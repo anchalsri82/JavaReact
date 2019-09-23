@@ -49,10 +49,13 @@
 
 	23rd Sep 2019
 	--------------
+	* Join WhatsApp group of fellow learner using URL https://chat.whatsapp.com/Fzkd26Yb81U7U9rjO8fjZT and introduce yourself this WhatsApp group, if not done already.
+	* Create a github account and share your github username with me.
 	* Read the presentation at http://bit.ly/2m5NcwY once again for revision, if not done already.
 	* Watch the recorded videos at http://bit.ly/2m0vHOw for revision and make notes for yourself using pen and paper, if not done already.
 	* Write a Java program that:
-		1. Outputs "I will build Mobile App."
+		1. Outputs "I will build Mobile App"
 		2. Outputs "I will be master in Java and React after completing this course."
 		3. Takes input as month number and outputs the month name. e.g. if input is 3, output should be March, if input is 12, output should be December.
 		4. Takes marks in percentage as input and print "Grade A" if percentage >= 80, print "Grade B", if percentage >=70 and percentage <80, "Fails" otherwise.
+	* Discuss in whatsapp group https://chat.whatsapp.com/Fzkd26Yb81U7U9rjO8fjZT if you are facing any problem with any of the above home assignments.
