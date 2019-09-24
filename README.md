@@ -1,7 +1,8 @@
 * Java/React mobile/Web apps development Course useful links :  <br/>
 	*  Download meeting invite by clicking on below URL: <br/>
 		https://drive.google.com/open?id=1cRJwRmWZFEa4klcyxV1VPumzuhsIMRFk
-
+	* Join WhatsApp group for this course using below URL:
+		http://bit.ly/2lnabn2
 	* Watch Video Recording of previous classes : <br/>
 		http://bit.ly/2m0vHOw <br/>
 		Day 1 - <br/>
