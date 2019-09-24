@@ -1,18 +1,21 @@
-*  Learn building mobile/web app Full Stack dev using Java/React/JS online interactive Course details :
-	http://bit.ly/2l12aUF
+* Java/React mobile/Web apps development Course useful links :  <br/>
+	*  Download meeting invite by clicking on below URL: <br/>
+		https://drive.google.com/open?id=1cRJwRmWZFEa4klcyxV1VPumzuhsIMRFk
 
-* Video Recording : <br/>
-	http://bit.ly/2m0vHOw <br/>
-	Day 1 - Part 1 - https://youtu.be/fe_JO51cKVc <br/>
+	* Watch Video Recording of previous classes : <br/>
+		http://bit.ly/2m0vHOw <br/>
+		Day 1 - <br/>
+			Part 1 - https://youtu.be/fe_JO51cKVc <br/>
 			Part 2 - https://youtu.be/k_9No6hOQZ0 <br/>
-	Day 2 - https://youtu.be/K3u197JVdTg <br/>
+		Day 2 -  <br/>
+			https://youtu.be/K3u197JVdTg <br/>
 
-* Sample code for Lab : 
-	https://github.com/anchalsri82/JavaReact
+	* Sample code for Lab :  <br/>
+		https://github.com/anchalsri82/JavaReact
 
-* Presentation :
-	Day 1 - http://bit.ly/2mscOUP	<br/>
-	Day 2 - http://bit.ly/2m5NcwY
+	* Presentation : <br/>
+		Day 1 - http://bit.ly/2mscOUP	<br/>
+		Day 2 - http://bit.ly/2m5NcwY
 
 * Home Assignment : <br/>
 	https://github.com/anchalsri82/JavaReact<br/>
@@ -49,7 +52,7 @@
 
 	23rd Sep 2019
 	--------------
-	* Join WhatsApp group of fellow learner using URL https://chat.whatsapp.com/Fzkd26Yb81U7U9rjO8fjZT and introduce yourself this WhatsApp group, if not done already.
+	* Join WhatsApp group of fellow learner using URL http://bit.ly/2lnabn2 and introduce yourself this WhatsApp group, if not done already.
 	* Create a github account and share your github username with me.
 	* Read the presentation at http://bit.ly/2m5NcwY once again for revision, if not done already.
 	* Watch the recorded videos at http://bit.ly/2m0vHOw for revision and make notes for yourself using pen and paper, if not done already.
@@ -58,4 +61,16 @@
 		2. Outputs "I will be master in Java and React after completing this course."
 		3. Takes input as month number and outputs the month name. e.g. if input is 3, output should be March, if input is 12, output should be December.
 		4. Takes marks in percentage as input and print "Grade A" if percentage >= 80, print "Grade B", if percentage >=70 and percentage <80, "Fails" otherwise.
-	* Discuss in whatsapp group https://chat.whatsapp.com/Fzkd26Yb81U7U9rjO8fjZT if you are facing any problem with any of the above home assignments.
+	* Discuss in WhatsApp group http://bit.ly/2lnabn2 if you are facing any problem with any of the above home assignments.
+	
+	24th Sep 2019
+	--------------
+	* Complete all previous assignments.
+	* Write a Java program that:
+		1. Outputs "I wrote many Java programs"
+		2. Outputs "I want to learn Java to build mobile apps"
+		3. Takes input as Exam Result as either Pass or Fail and outputs "I'll buy car" if input is "Yes", outputs "I'll buy bicycle", if input is "No", output.
+		4. Takes take input as your drink type as either "Alcohol" or "Non-Alcohol" input and outputs "You can drive car" if input is "non-Alcohol", "You can't drive car because you are drunk and it's not safe" if input is Alcohol
+	* Join and discuss in WhatsApp group http://bit.ly/2lnabn2 if you are facing any problem with any of the above home assignments.
+	
+	
