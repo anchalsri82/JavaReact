@@ -1,22 +1,14 @@
-* Java/React mobile/Web apps development Course useful links :  <br/>
+* Java/React mobile/Web apps development Course by mindsmoover.com - useful links :  <br/>
 	*  Download meeting invite by clicking on below URL: <br/>
 		https://drive.google.com/open?id=1cRJwRmWZFEa4klcyxV1VPumzuhsIMRFk
 	* Join WhatsApp group for this course using below URL:
 		http://bit.ly/2lnabn2
 	* Watch Video Recording of previous classes : <br/>
 		http://bit.ly/2m0vHOw <br/>
-		Day 1 - <br/>
-			Part 1 - https://youtu.be/fe_JO51cKVc <br/>
-			Part 2 - https://youtu.be/k_9No6hOQZ0 <br/>
-		Day 2 -  <br/>
-			https://youtu.be/K3u197JVdTg <br/>
-
 	* Sample code for Lab :  <br/>
 		https://github.com/anchalsri82/JavaReact
-
-	* Presentation : <br/>
-		Day 1 - http://bit.ly/2mscOUP	<br/>
-		Day 2 - http://bit.ly/2m5NcwY
+	* Presentation files : <br/>
+		https://github.com/anchalsri82/JavaReact/tree/master/docs
 
 * Home Assignment : <br/>
 	https://github.com/anchalsri82/JavaReact<br/>
@@ -24,7 +16,7 @@
 	--------------
 	* Download and Install 
 		1. JVM (Java Virtual Machine) - https://www.java.com/en/download/
-		2. Eclipse IDE for Java Developers. - 
+		2. Eclipse IDE for Java Developers OR IntelliJ IDE for Java 
 		3. NodeJS https://nodejs.org/en/download/
 		4. Visual Studio Code - https://code.visualstudio.com/
 		5. TortoiseGit using URL - https://tortoisegit.org/download
