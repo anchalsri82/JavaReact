@@ -1,24 +1,21 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import LoginUserDetails1 from './Component/LoginUserDetails1';
+import LoginUserDetails2 from './Component/LoginUserDetails2';
+import LoginUserDetails3 from './Component/LoginUserDetails3';
+
+
+let userName3 = "Mukesh";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <LoginUserDetails1 username="Ankit" />
+    <LoginUserDetails2 username="Rajesh" />
+    <LoginUserDetails3 username={userName3} /> 
+    <br/><br/><br/><br/><br/><br/>
+    <LoginUserDetails1 username={userName3} /> 
     </div>
   );
 }
