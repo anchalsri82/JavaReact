@@ -1,0 +1,93 @@
+a {
+    text-decoration: none;
+    color: #444444;
+}
+
+.rlogin-reg-panel {
+    text-align: center;
+    width: 97%;
+    margin:20px;
+    height: 350px;
+    opacity: .96;
+    background-color: #09c;
+}
+
+.rwhite-panel {
+    background-color: rgba(255, 255, 255, 1);
+    /* height: 343px; */
+    position: absolute;
+    width: 30%;
+    margin-top:-40px;
+    padding: 20px;
+    left: calc(58% - 35px);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    z-index: 0;
+    box-shadow: 0 0 15px 9px #00000096;
+}
+.rlogin-reg-panel input[type="radio"] {
+    position: relative;
+    display: none;
+}
+
+.rlogin-reg-panel {
+    color: rgb(190, 190, 190);
+}
+
+.rlabel-login {
+    padding: 5px 28px;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+    color: #09c;
+    background-color: rgba(255, 255, 255, 1);
+    margin-left:25px;
+}
+
+/* ------------- */
+.rright-log {
+    right: 50px !important;
+}
+
+.rshow-log-panel {
+    display: block;
+    opacity: 0.9;
+}
+
+.rlogin-show input[type="text"],
+.rlogin-show input[type="password"] {
+    width: 100%;
+    margin: 8px 0;
+    /* margin: 20px 0; */
+    /* padding: 15px; */
+    padding: 5px;
+    border: 1px solid #b5b5b5;
+    outline: none;
+}
+
+.rlogin-show input[type="button"] {
+    width: 100%;
+    border: none;
+    float: right;
+    padding: 10px;
+    color: #f9f9f9;
+    cursor: pointer;
+    max-width: 150px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    background: rgb(8, 114, 150);
+}
+
+.rlogin-show a {
+    display: inline-block;
+    padding: 10px 0;
+}
+.register-info-box {
+    width: 43%;
+    padding: 65px 0px 0px 180px;
+    position: absolute;
+    text-align: left;
+}
