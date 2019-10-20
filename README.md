@@ -1,4 +1,4 @@
-mindsmoover.com
+mindsmover.com
 
 * Java/React mobile/Web apps development Course by mindsmoover.com - useful links :  <br/>
 	*  Download meeting invite by clicking on below URL: <br/>
