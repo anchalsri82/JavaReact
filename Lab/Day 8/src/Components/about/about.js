@@ -26,7 +26,7 @@ class About extends Component {
         <Row gutter={5}>
           <Col span={24}>
             <h3>
-              We are moneto!!!
+              We are accounting!!!
 			      </h3>
             <hr />
           </Col>

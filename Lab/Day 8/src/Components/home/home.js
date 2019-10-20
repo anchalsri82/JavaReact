@@ -17,7 +17,7 @@ class Home extends Component {
         <Row gutter={5}>
           <Col span={24}>
             <center>
-              <h1>Welcome To moneto.com</h1>
+              <h1>Welcome To accounting.com</h1>
             </center>
             <br /><br />
           </Col>

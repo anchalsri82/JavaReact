@@ -30,7 +30,7 @@ class Companies extends Component {
         Fax:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="fax"/><br/>
         Other Info:&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="otherinformation"/><br/>
         Tin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="tin"/><br/>
-        <a href="{(http://moneto.com/Save)}">Save</a>&nbsp;&nbsp;<a href="{(http://moneto.com/Cancel)}">Cancel</a>
+        <a href="{(http://accounting.com/Save)}">Save</a>&nbsp;&nbsp;<a href="{(http://accounting.com/Cancel)}">Cancel</a>
 <br/>
         
         <table>
@@ -53,8 +53,8 @@ class Companies extends Component {
     <td>+1 123 456 7892</td>
     <td>US1234567</td>
     <td>KYC Pending</td>
-    <td><a href={("http://moneto.com")}> Upload</a></td>
-    <td><a href={("http://moneto.com")}>Edit</a></td>
+    <td><a href={("http://accounting.com")}> Upload</a></td>
+    <td><a href={("http://accounting.com")}>Edit</a></td>
   </tr>
   <tr>
     <td>Google</td>
@@ -65,7 +65,7 @@ class Companies extends Component {
     <td>US2234567</td>
     <td>Inactive</td>
     <td></td>
-    <td><a href={("http://moneto.com")}>Edit</a></td>
+    <td><a href={("http://accounting.com")}>Edit</a></td>
   </tr>
   <tr>
     <td>Amazon</td>
@@ -76,7 +76,7 @@ class Companies extends Component {
     <td>US3234567</td>
     <td>Active</td>
     <td></td>
-    <td><a href={("http://moneto.com")}>Edit</a></td>
+    <td><a href={("http://accounting.com")}>Edit</a></td>
   </tr>
 </table>
       </div>

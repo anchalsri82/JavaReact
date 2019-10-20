@@ -24,8 +24,8 @@ class InvoicesReceivable extends Component {
         </Row>
         <table>
           <tr width="100%">
-              <td width="70%"><a href={("http://moneto.com")}>Create New </a>OR
-                  <a href={("http://moneto.com")}>Upload</a>
+              <td width="70%"><a href={("http://accounting.com")}>Create New </a>OR
+                  <a href={("http://accounting.com")}>Upload</a>
                   <input type ="search" name ="filename" /> </td>
               <td>Search - </td>
               <td><input type ="search" name ="searchtext" /></td>
@@ -65,23 +65,23 @@ class InvoicesReceivable extends Component {
             <td><input type="text" name="price" /></td>
             <td><input type="text" name="quantity" /></td>
             <td><input type="text" name="total" /></td>
-            <td><a href={("http://moneto.com")}>Add</a></td>
+            <td><a href={("http://accounting.com")}>Add</a></td>
           </tr>
           <tr>
             <td>Windows 10 license</td>
             <td>USD 500</td>
             <td>5</td>
             <td>USD 2500</td>
-            <td><a href={("http://moneto.com")}>Edit</a>&nbsp;
-                <a href={("http://moneto.com")}>Remove</a></td>
+            <td><a href={("http://accounting.com")}>Edit</a>&nbsp;
+                <a href={("http://accounting.com")}>Remove</a></td>
           </tr>
           <tr>
             <td>XBox</td>
             <td>USD 1000</td>
             <td>3</td>
             <td>USD 3000</td>
-            <td><a href={("http://moneto.com")}>Edit</a>&nbsp;
-                <a href={("http://moneto.com")}>Remove</a></td>
+            <td><a href={("http://accounting.com")}>Edit</a>&nbsp;
+                <a href={("http://accounting.com")}>Remove</a></td>
           </tr>
         <tr>
             <td></td>
@@ -95,8 +95,8 @@ class InvoicesReceivable extends Component {
           <td></td>
           <td></td>
           <td style={{marginRight:100}}></td>
-          <td><a href={("http://moneto.com")}>Save</a>&nbsp;
-          <a href={("http://moneto.com")}>Cancel</a></td>
+          <td><a href={("http://accounting.com")}>Save</a>&nbsp;
+          <a href={("http://accounting.com")}>Cancel</a></td>
         </tr>
         </table>
         <table>
@@ -112,14 +112,14 @@ class InvoicesReceivable extends Component {
           <td>5th Oct 2019</td>
           <td>Amazon</td>
           <td>50000</td>
-          <td><a href={("http://moneto.com")}>Edit</a>&nbsp;</td>
+          <td><a href={("http://accounting.com")}>Edit</a>&nbsp;</td>
           </tr>
           <tr>
           <td>12346</td>
           <td>10th Oct 2019</td>
           <td>Google</td>
           <td>10000</td>
-          <td><a href={("http://moneto.com")}>Edit</a>&nbsp;</td>
+          <td><a href={("http://accounting.com")}>Edit</a>&nbsp;</td>
           </tr>
         </table>
 

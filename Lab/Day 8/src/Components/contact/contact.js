@@ -17,7 +17,7 @@ class Contact extends Component {
           <Col span={24}>
             <h6>
               <br />
-              Email: info@moneto.com
+              Email: info@accounting.com
               <br /><br />
               </h6>
           </Col>

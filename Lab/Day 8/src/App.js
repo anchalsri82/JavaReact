@@ -95,7 +95,7 @@ class App extends Component {
             </div>
         </Content>
         <Footer style={{ textAlign: 'center' }}>
-          Copyright moneto.com © 2019
+          Copyright accounting.com © 2019
         </Footer>        
 
       </Layout>
